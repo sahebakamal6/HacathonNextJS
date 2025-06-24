@@ -1,7 +1,7 @@
 'use client'
 
 import Navbar from "@/components/ui/navbar";
-import { Card, CardContent,CardHeader, CardFooter  } from "@/components/ui/card";
+import { Card, CardContent,CardHeader  } from "@/components/ui/card";
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import Footer from "@/components/ui/footer";
